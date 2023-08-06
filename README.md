@@ -22,10 +22,10 @@ The experiment notebooks are also served as HTML pages at:
 | With augmentation | Without Augmentation |
 |:-|:-|
 |[YOLOv5](https://romanvia93.github.io/traffic_sign_detection/Yolov5_w_augmentation.html)|[YOLOv5 w/o aug](https://romanvia93.github.io/traffic_sign_detection/Yolov5_w_o_augmentation.html)|
-|[EfficientDet D1](https://romanvia93.github.io/traffic_sign_detection/EfficientDet_D1_640x640.html)|[EfficientDet D1 w/o aug](https://romanvia93.github.io/traffic_sign_detection/EfficientDet_D1_640x640_(w_o_augmentation).html)|
+|[EfficientDet D1](https://romanvia93.github.io/traffic_sign_detection/EfficientDet_D1_640x640.html)|[EfficientDet D1 w/o aug](https://romanvia93.github.io/traffic_sign_detection/EfficientDet_D1_640x640_w_o_augmentation.html)|
 |[SSD MobileNet FPNLite](https://romanvia93.github.io/traffic_sign_detection/SSD_MobileNet_v2_FPNLite_640x640.html)|[SSD MobileNet FPNLite w/o aug](https://romanvia93.github.io/traffic_sign_detection/SSD_MobileNet_v2_FPNLite_640x640_w_o_augmentation.html)|
-|[SSD ResNet50 FPN](https://romanvia93.github.io/traffic_sign_detection/SSD_ResNet50_V1_FPN_640x640_(RetinaNet50).html)|[SSD ResNet50 FPN w/o aug](https://romanvia93.github.io/traffic_sign_detection/SSD_ResNet50_V1_FPN_640x640_(RetinaNet50)_(w_o_augmentation).html)|
-|[Faster R-CNN ResNet50](https://romanvia93.github.io/traffic_sign_detection/Faster_RCNN_Resnet50_v1_640x640.html)|[Faster R-CNN ResNet50 w/o aug](https://romanvia93.github.io/traffic_sign_detection/Faster_RCNN_Resnet50_v1_640x640_(w_o_augmentation).html)|
+|[SSD ResNet50 FPN](https://romanvia93.github.io/traffic_sign_detection/SSD_ResNet50_V1_FPN_640x640_RetinaNet50.html)|[SSD ResNet50 FPN w/o aug](https://romanvia93.github.io/traffic_sign_detection/SSD_ResNet50_V1_FPN_640x640_RetinaNet50_w_o_augmentation.html)|
+|[Faster R-CNN ResNet50](https://romanvia93.github.io/traffic_sign_detection/Faster_RCNN_Resnet50_v1_640x640.html)|[Faster R-CNN ResNet50 w/o aug](https://romanvia93.github.io/traffic_sign_detection/Faster_RCNN_Resnet50_v1_640x640_w_o_augmentation.html)|
 
 
 ## Results
