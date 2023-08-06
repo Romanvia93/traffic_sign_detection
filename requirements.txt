@@ -4,9 +4,11 @@ nbformat==5.9.0
 
 # Note: 
 # This list contains only the packages for converting notebooks to HTML pages
-# Because it is not recommended to run notebooks for TensorFlow models locally. It should be run Google Colab instead.
+# Because it is not recommended to run notebooks for TensorFlow models locally. Instead, they should be run Google Colab.
 # There are 2 reasons for this:
-# 1. Training these models requires GPU; otherwise it takes extremely long
-# 2. The TensorFlow Model Zoo Object Detection API is deprecated. There are many packages conflicts.
-# For example: evaluation requires another version of pillow compared to training, for the same model.
-# Please refer to the notebooks for more details and instructions
+# 1. Training these models requires a GPU; otherwise it takes extremely long
+# 2. The TensorFlow Model Zoo Object Detection API is deprecated, although it is still a main source for pretrained tensorflow object detection models.
+# Because it's no longer supported, there are many packages conflicts during the training, evaluation, and inference.
+# For example: training and evaluating the same model require different Pillow versions.
+# Please refer to the notebooks for more details and instructions.
+# When doing our experiments, we solved this problem by putting necessary cells in order and executing cell by cell in a notebook.
