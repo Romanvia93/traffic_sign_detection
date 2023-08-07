@@ -39,6 +39,13 @@ About the Streamlit app usage, please refer to the `README.md` file in the `yolo
 Among the TensorFlow models, `SSD MobileNet FPNLite` is the best candidate. Hence, we also chose it to run a realtime webcam test on a local machine. The screen recording of this demo is available in `tensorflow/videos`.
 
 
+### Comprehensive Report
+
+A comprehensive report that discusses the introduction, methodology, experiments, results and discussion and conclusion of this project was written by the team and is avaible in the `report` directory, both in `pdf` format and in the form of a `Jupyter Notebook`.
+
+The `Jupyter Notebook report` is also served as an [HTML](https://romanvia93.github.io/traffic_sign_detection/traffic_sign_detection_report.html).
+
+
 ### Important Note: 
 The notebooks are strongly recommended to be run in Google Colab (click on the link provided at the top of each notebook). There are 2 reasons for this:
 
