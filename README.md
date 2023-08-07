@@ -1,6 +1,6 @@
 ## AASD4015 - Advance Applied Mathematical Concepts for Deep Learning
 
-# Project 2 - Traffic Sign Detection
+# Project: Traffic Sign Detection
 
 ## Group 3
 * Thien An Trinh
