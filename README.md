@@ -57,7 +57,7 @@ For example: training and evaluating the same model require different Pillow ver
 
 When doing our experiments, we solved this problem by putting necessary cells in a correct order and executing cell by cell in a notebook. Therefore, our recommendation is not to run the TensorFlow notebooks locally, but rather train the model on Google Colab and save the trained model for later inference, as we did in the notebooks.
 
-For the same reasons, the `requirements.txt` file only lists the packages required for converting a notebook to a HTML (because we do not train the models locally).  
+For the same reasons, the `requirements.txt` file only lists the packages required for converting a notebook to a HTML (because we do not train the models locally) and for producing the project report in the form of a Jupyter Notebook.  
 In the `yolo` folder, there is another `requirements.txt` that lists the packages for deploying the YOLO model.
 
 ## Additional Information

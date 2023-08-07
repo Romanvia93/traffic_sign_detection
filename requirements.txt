@@ -1,9 +1,16 @@
 ipykernel==6.24.0
 nbconvert==7.6.0
 nbformat==5.9.0
+numpy==1.25.2
+gdown==4.7.1
+pandas==2.0.3
+tqdm==4.65.0
+seaborn==0.12.2
+matplotlib==3.7.2
+pillow==10.0.0
 
 # Note: 
-# This list contains only the packages for converting notebooks to HTML pages
+# This list contains only the packages for converting notebooks to HTML pages and to product the report in Jupyter Notebook.
 # Because it is not recommended to run notebooks for TensorFlow models locally. Instead, they should be run Google Colab.
 # There are 2 reasons for this:
 # 1. Training these models requires a GPU; otherwise it takes extremely long
